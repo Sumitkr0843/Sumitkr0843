@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sumit%20Kumar&fontSize=48&fontAlignY=40&color=0:4F46E5,50:7C3AED,100:9333EA" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Spring+Boot+%7C+React+%7C+Cloud+Enthusiast;Building+Scalable+Enterprise+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Cloud+Enthusiast;Building+Scalable+Enterprise+Applications" alt="Typing SVG" />
 
 <br/>
 
