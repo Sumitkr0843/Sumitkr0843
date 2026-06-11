@@ -222,11 +222,9 @@ Developed a hybrid CNN-Transformer architecture leveraging MobileViT-XS and tran
 
 # Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sumitkr0843/Sumitkr0843/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
