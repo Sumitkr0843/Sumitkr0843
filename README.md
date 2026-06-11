@@ -8,7 +8,6 @@
 
 ![](https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge)
 ![](https://img.shields.io/badge/GGSIPU-New%20Delhi-6366F1?style=for-the-badge)
-![](https://img.shields.io/badge/Research%20Paper-Springer%20Nature-8B5CF6?style=for-the-badge)
 
 ![](https://img.shields.io/badge/Location-New%20Delhi,%20India-4F46E5?style=for-the-badge)
 
@@ -26,9 +25,9 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=your-github&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/your-github?style=for-the-badge&color=6366F1)
-![](https://img.shields.io/github/stars/your-github?affiliations=OWNER&style=for-the-badge&color=8B5CF6)
+![](https://komarev.com/ghpvc/?username=Sumitkr0843&style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/followers/Sumitkr0843?style=for-the-badge&color=6366F1)
+![](https://img.shields.io/github/stars/Sumitkr0843?affiliations=OWNER&style=for-the-badge&color=8B5CF6)
 
 </div>
 
@@ -83,19 +82,6 @@ I specialize in:
 <p align="center">
 <img src="https://skillicons.dev/icons?i=docker,git,github,maven,postman,vscode,idea" />
 </p>
-
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|----------|------------|----------|
-| Deep Learning | Advanced | CNN, Transfer Learning, Image Classification |
-| Computer Vision | Advanced | Disease Detection, Grad-CAM Explainability |
-| Model Deployment | Advanced | Streamlit, Edge Optimization |
-| PyTorch | Advanced | Training & Fine-tuning Deep Learning Models |
-| Explainable AI | Intermediate | Visual Attention Mapping & Interpretability |
-| Research Engineering | Advanced | Springer Nature Accepted Research Publication |
 
 ---
 
@@ -200,40 +186,15 @@ Developed a hybrid CNN-Transformer architecture leveraging MobileViT-XS and tran
 
 ---
 
-
-# Coding Profiles
-
-<div align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
-</a>
-
-</div>
-
----
-
 # GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sumitkr0843&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?Sumitkr0843&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitkr0843&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -243,7 +204,7 @@ Developed a hybrid CNN-Transformer architecture leveraging MobileViT-XS and tran
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-github&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sumitkr0843&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -253,7 +214,7 @@ Developed a hybrid CNN-Transformer architecture leveraging MobileViT-XS and tran
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumitkr0843&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
